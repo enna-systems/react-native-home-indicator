@@ -26,6 +26,9 @@
         }
     ],
     "license": "MIT",
+    "peerDependencies": {
+        "react": "*"
+    }
     "devDependencies": {
         "@react-native-community/eslint-config": "^3.0.1",
         "babel-eslint": "^10.1.0",
